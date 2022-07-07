@@ -54,21 +54,21 @@ const about = [
 
 const projects = [
     {
-        name: "My Portfolio Website",
+        name: "M X W",
         description: "A portfolio website for myself that I developed in NTNU CSIE Camp.",
         image: "https://spy-family.net/assets/img/special/wall02.jpg",
         skills: ["Vue", "Tailwind", "Node.js", "GitHub"],
         url: "https://github.com/anya-forger/anya-forger.github.io",
     },
     {
-        name: "AI Gomoku Gaming Agent",
+        name: "A X A",
         description: "A gomoku gaming agent with Python that I designed in NTNU CSIE Camp.",
         image: "https://spy-family.net/assets/img/special/wall01.jpg",
         skills: ["Python", "Algorithm", "Gomoku"],
         url: "https://github.com/anya-forger",
     },
     {
-        name: "SPY x FAMILY",
+        name: "S x F",
         description: "An anime that I starred in.",
         image: "https://spy-family.net/assets/img/special/special10_1.gif",
         skills: ["Performings"],

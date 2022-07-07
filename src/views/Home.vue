@@ -13,7 +13,7 @@ const width = screen.width;
         <div class="flex w-full flex-col md:flex-row">
             <div class="w-full md:w-1/2">
                 <Typing
-                    text="Anya Forger"
+                    text=" LET ME INTRODUCE MY SELF "
                     @done="step++"
                     class="mb-2 block text-2xl sm:text-3xl lg:text-4xl"
                 />
@@ -25,7 +25,7 @@ const width = screen.width;
                     target="_blank"
                 >
                     <MdiGithub class="mr-1 inline-block" />
-                    <Typing v-if="step > 1" @done="step++" text="GitHub" :speed="60" />
+                    <Typing v-if="step > 1" @done="step++" text="GitHub" :speed="90" />
                 </a>
                 <a
                     v-if="step > 2"

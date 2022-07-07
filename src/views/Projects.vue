@@ -24,7 +24,7 @@ function random_text(length = 32) {
             />
         </div>
         <div class="opacity-0">
-            I'm so cute!<br />
+            MY NAME IS THE FUCK WHAT IS WAKUWAKU!<br />
             Waku Waku!
         </div>
     </div>
